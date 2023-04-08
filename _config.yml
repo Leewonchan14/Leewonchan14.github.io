@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Leewonchan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "무럭"
-  location         : "Somewhere"
+  bio              : "스프링 공부 하는 사람임"
+  location         : "한국공학대학교"
   email            :
   links:
     - label: "Email"
